@@ -1,0 +1,14 @@
+# Journal personnel
+journal-personnel/
+
+# Dépendances
+node_modules/
+
+# Variables et secrets
+.env
+.env.*
+!.env.example
+
+# Fichiers système
+.DS_Store
+Thumbs.db
